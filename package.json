@@ -1,6 +1,6 @@
 {
   "name": "hexo-deployer-kodo",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "description": "Qiniu Cloud deployer plugin of Hexo.",
   "main": "index.js",
   "scripts": {
