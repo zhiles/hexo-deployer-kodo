@@ -1,0 +1,30 @@
+{
+  "name": "hexo-deployer-kodo",
+  "version": "0.0.1",
+  "description": "Qiniu Cloud deployer plugin of Hexo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hexo",
+    "deployer",
+    "qiniu",
+    "kodo",
+    "qiniucloud",
+    "Qiniu Cloud",
+    "七牛",
+    "七牛云"
+  ],
+  "author": "teifan",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhiles/hexo-deployer-kodo"
+  },
+  "dependencies": {
+    "hexo-fs": "^2.0.0",
+    "qiniu": "^7.2.2",
+    "request": "^2.88.0"
+  }
+}
