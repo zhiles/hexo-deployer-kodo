@@ -1,16 +1,16 @@
-# hexo-deployer-qiniucloud2
+# hexo-deployer-kodo
 
 [Hexo](http://hexo.io/) 上的七牛云部署器。
 
 ## 安装
 
 ```bash
-npm install hexo-deployer-qiniucloud2 --save
+npm install hexo-deployer-kodo --save
 ```
 
 ## 使用
 
-1. 注册并登录[七牛云](https://portal.qiniu.com/qvm/active?code=13820695516qDb)
+1. 注册并登录[七牛云](https://portal.qiniu.com/qvm/active?code=1hez1wnmig3te)
 2. 新建[存储空间](https://portal.qiniu.com/bucket/create)
 3. 获取[密钥(Access/Secret Key)](https://portal.qiniu.com/user/key)
 4. 编辑`_config.yml`文件
